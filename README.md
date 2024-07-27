@@ -38,7 +38,7 @@ An advanced E-commerce store built using the MERN stack, offering customizable p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ravikant-diwakar/ecommerce-store.git
+git clone https://github.com/Gauravkumar1741/ecommerce-store.git
 cd ecommerce-store
 ```
 
